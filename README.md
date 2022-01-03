@@ -19,4 +19,6 @@ All of these files contain a dataset that is created by combining all of the dat
 
 In addition to these main files, specific files for each source are also generated (data-bp.csv, data-eia.json etc). These files are exclusively based on data from the source specified by the filename.
 
+Lastly, a storage.json file is generated which contains electricity storage data.
+
 For more information about the methodology, see https://lowcarbonpower.org/methodology. Also feel free to contact olof@lowcarbonpower.org or https://twitter.com/lowcarbonpower.
